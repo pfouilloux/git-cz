@@ -2,17 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
-## [unreleased]
+## [0.1.2] - 2025-03-16
 
 ### 🧪 Testing
 
 - Fix missing parameter in integration tests
 
+### ⚙️ Miscellaneous Tasks
+
+- Update git2, promkit and tempfile
+- *(changelog)* Update changelog
+
 ## [0.1.1] - 2024-09-25
 
 ### 🚀 Features
 
-- *(git-cz)* Add option to use editor for body
+- *(git-cz)* Add option to use editor for body 
 
 ### 🐛 Bug Fixes
 
@@ -54,6 +59,7 @@ All notable changes to this project will be documented in this file.
 
 ### 🚀 Features
 
+- *(git-cz)* Add optional footer prompt 
 - *(git-cz)* Add optional footer prompt
 - *(cargo-dist)* Add homebrew
 
